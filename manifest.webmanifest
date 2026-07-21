@@ -1,0 +1,13 @@
+{
+  "name": "沪英趣学 · 四年级自然拼读",
+  "short_name": "沪英趣学",
+  "description": "牛津上海版四年级、KET/PET CEFR 分级词库、词义连线与自然拼读互动学习",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#083f38",
+  "theme_color": "#087b58",
+  "orientation": "any",
+  "icons": [
+    { "src": "/assets/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

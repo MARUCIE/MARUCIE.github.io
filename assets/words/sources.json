@@ -1,0 +1,2214 @@
+{
+  "collections": {
+    "fluent-emoji-flat": {
+      "title": "Fluent Emoji Flat",
+      "license": "MIT",
+      "source": "https://github.com/microsoft/fluentui-emoji"
+    },
+    "game-icons": {
+      "title": "Game Icons",
+      "license": "CC-BY-3.0",
+      "source": "https://github.com/game-icons/icons"
+    },
+    "hugeicons": {
+      "title": "Huge Icons",
+      "license": "MIT",
+      "source": "https://icon-sets.iconify.design/hugeicons/"
+    },
+    "lucide-lab": {
+      "title": "Lucide Lab",
+      "license": "ISC",
+      "source": "https://github.com/lucide-icons/lucide-lab"
+    },
+    "material-symbols": {
+      "title": "Material Symbols",
+      "license": "Apache-2.0",
+      "source": "https://github.com/google/material-design-icons"
+    },
+    "mdi": {
+      "title": "Material Design Icons",
+      "license": "Apache-2.0",
+      "source": "https://github.com/Templarian/MaterialDesign"
+    },
+    "roentgen": {
+      "title": "Röntgen",
+      "license": "CC-BY-4.0",
+      "source": "https://github.com/enzet/Roentgen"
+    }
+  },
+  "assets": {
+    "classmate": {
+      "collection": "fluent-emoji-flat",
+      "icon": "student"
+    },
+    "name": {
+      "collection": "fluent-emoji-flat",
+      "icon": "name-badge"
+    },
+    "eleven": {
+      "collection": "fluent-emoji-flat",
+      "icon": "eleven-oclock"
+    },
+    "student": {
+      "collection": "fluent-emoji-flat",
+      "icon": "student"
+    },
+    "number": {
+      "collection": "fluent-emoji-flat",
+      "icon": "input-numbers"
+    },
+    "near": {
+      "collection": "fluent-emoji-flat",
+      "icon": "people-hugging"
+    },
+    "run": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-running"
+    },
+    "swim": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-swimming"
+    },
+    "draw": {
+      "collection": "fluent-emoji-flat",
+      "icon": "artist-palette"
+    },
+    "write": {
+      "collection": "fluent-emoji-flat",
+      "icon": "writing-hand"
+    },
+    "jump": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-cartwheeling"
+    },
+    "paint": {
+      "collection": "fluent-emoji-flat",
+      "icon": "paintbrush"
+    },
+    "happy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "grinning-face-with-big-eyes"
+    },
+    "sad": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sad-but-relieved-face"
+    },
+    "tired": {
+      "collection": "fluent-emoji-flat",
+      "icon": "tired-face"
+    },
+    "hungry": {
+      "collection": "fluent-emoji-flat",
+      "icon": "face-savoring-food"
+    },
+    "thirsty": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cup-with-straw"
+    },
+    "full": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pot-of-food"
+    },
+    "parent": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person"
+    },
+    "grandfather": {
+      "collection": "fluent-emoji-flat",
+      "icon": "old-man"
+    },
+    "grandmother": {
+      "collection": "fluent-emoji-flat",
+      "icon": "old-woman"
+    },
+    "uncle": {
+      "collection": "fluent-emoji-flat",
+      "icon": "man"
+    },
+    "aunt": {
+      "collection": "fluent-emoji-flat",
+      "icon": "woman"
+    },
+    "cousin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "child"
+    },
+    "teacher": {
+      "collection": "fluent-emoji-flat",
+      "icon": "teacher"
+    },
+    "doctor": {
+      "collection": "fluent-emoji-flat",
+      "icon": "health-worker"
+    },
+    "nurse": {
+      "collection": "fluent-emoji-flat",
+      "icon": "woman-health-worker"
+    },
+    "firefighter": {
+      "collection": "fluent-emoji-flat",
+      "icon": "firefighter"
+    },
+    "cook": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cook"
+    },
+    "driver": {
+      "collection": "fluent-emoji-flat",
+      "icon": "automobile"
+    },
+    "shirt": {
+      "collection": "fluent-emoji-flat",
+      "icon": "t-shirt"
+    },
+    "skirt": {
+      "collection": "fluent-emoji-flat",
+      "icon": "womans-clothes"
+    },
+    "dress": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dress"
+    },
+    "shorts": {
+      "collection": "fluent-emoji-flat",
+      "icon": "shorts"
+    },
+    "brown": {
+      "collection": "fluent-emoji-flat",
+      "icon": "brown-circle"
+    },
+    "kind": {
+      "collection": "fluent-emoji-flat",
+      "icon": "smiling-face-with-hearts"
+    },
+    "classroom": {
+      "collection": "fluent-emoji-flat",
+      "icon": "school"
+    },
+    "office": {
+      "collection": "fluent-emoji-flat",
+      "icon": "office-building"
+    },
+    "library": {
+      "collection": "fluent-emoji-flat",
+      "icon": "books"
+    },
+    "playground": {
+      "collection": "fluent-emoji-flat",
+      "icon": "playground-slide"
+    },
+    "computer": {
+      "collection": "fluent-emoji-flat",
+      "icon": "desktop-computer"
+    },
+    "busy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "office-worker"
+    },
+    "street": {
+      "collection": "fluent-emoji-flat",
+      "icon": "motorway"
+    },
+    "park": {
+      "collection": "fluent-emoji-flat",
+      "icon": "national-park"
+    },
+    "supermarket": {
+      "collection": "fluent-emoji-flat",
+      "icon": "shopping-cart"
+    },
+    "restaurant": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fork-and-knife-with-plate"
+    },
+    "behind": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sun-behind-cloud"
+    },
+    "around": {
+      "collection": "fluent-emoji-flat",
+      "icon": "counterclockwise-arrows-button"
+    },
+    "tomato": {
+      "collection": "fluent-emoji-flat",
+      "icon": "tomato"
+    },
+    "potato": {
+      "collection": "fluent-emoji-flat",
+      "icon": "potato"
+    },
+    "carrot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "carrot"
+    },
+    "meat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cut-of-meat"
+    },
+    "rice": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cooked-rice"
+    },
+    "soup": {
+      "collection": "fluent-emoji-flat",
+      "icon": "steaming-bowl"
+    },
+    "farm": {
+      "collection": "fluent-emoji-flat",
+      "icon": "farmer"
+    },
+    "cow": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cow"
+    },
+    "sheep": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ewe"
+    },
+    "horse": {
+      "collection": "fluent-emoji-flat",
+      "icon": "horse"
+    },
+    "duck": {
+      "collection": "fluent-emoji-flat",
+      "icon": "duck"
+    },
+    "corn": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ear-of-corn"
+    },
+    "camera": {
+      "collection": "fluent-emoji-flat",
+      "icon": "camera"
+    },
+    "cap": {
+      "collection": "fluent-emoji-flat",
+      "icon": "billed-cap"
+    },
+    "sketchbook": {
+      "collection": "fluent-emoji-flat",
+      "icon": "notebook-with-decorative-cover"
+    },
+    "fountain": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fountain"
+    },
+    "pond": {
+      "collection": "fluent-emoji-flat",
+      "icon": "water-wave"
+    },
+    "map": {
+      "collection": "fluent-emoji-flat",
+      "icon": "world-map"
+    },
+    "sunny": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sun"
+    },
+    "rainy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cloud-with-rain"
+    },
+    "cloudy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sun-behind-large-cloud"
+    },
+    "windy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wind-face"
+    },
+    "weather": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sun-behind-rain-cloud"
+    },
+    "cloud": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cloud"
+    },
+    "watermelon": {
+      "collection": "fluent-emoji-flat",
+      "icon": "watermelon"
+    },
+    "grape": {
+      "collection": "fluent-emoji-flat",
+      "icon": "grapes"
+    },
+    "plum": {
+      "collection": "fluent-emoji-flat",
+      "icon": "peach"
+    },
+    "cherry": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cherries"
+    },
+    "sweet": {
+      "collection": "fluent-emoji-flat",
+      "icon": "candy"
+    },
+    "sour": {
+      "collection": "fluent-emoji-flat",
+      "icon": "lemon"
+    },
+    "hard": {
+      "collection": "fluent-emoji-flat",
+      "icon": "rock"
+    },
+    "soft": {
+      "collection": "fluent-emoji-flat",
+      "icon": "feather"
+    },
+    "rough": {
+      "collection": "fluent-emoji-flat",
+      "icon": "brick"
+    },
+    "smooth": {
+      "collection": "fluent-emoji-flat",
+      "icon": "soap"
+    },
+    "sharp": {
+      "collection": "fluent-emoji-flat",
+      "icon": "kitchen-knife"
+    },
+    "blunt": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hammer"
+    },
+    "shadow": {
+      "collection": "fluent-emoji-flat",
+      "icon": "new-moon"
+    },
+    "sun": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sun"
+    },
+    "rise": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sunrise"
+    },
+    "noon": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sun-with-face"
+    },
+    "evening": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sunset"
+    },
+    "night": {
+      "collection": "fluent-emoji-flat",
+      "icon": "night-with-stars"
+    },
+    "football": {
+      "collection": "fluent-emoji-flat",
+      "icon": "soccer-ball"
+    },
+    "basketball": {
+      "collection": "fluent-emoji-flat",
+      "icon": "basketball"
+    },
+    "volleyball": {
+      "collection": "fluent-emoji-flat",
+      "icon": "volleyball"
+    },
+    "badminton": {
+      "collection": "fluent-emoji-flat",
+      "icon": "badminton"
+    },
+    "sport": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sports-medal"
+    },
+    "join": {
+      "collection": "fluent-emoji-flat",
+      "icon": "handshake"
+    },
+    "parrot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "parrot"
+    },
+    "tortoise": {
+      "collection": "fluent-emoji-flat",
+      "icon": "turtle"
+    },
+    "bone": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bone"
+    },
+    "pet": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dog-face"
+    },
+    "cute": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hugging-face"
+    },
+    "animal": {
+      "collection": "fluent-emoji-flat",
+      "icon": "paw-prints"
+    },
+    "bedroom": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bed"
+    },
+    "living room": {
+      "collection": "fluent-emoji-flat",
+      "icon": "couch-and-lamp"
+    },
+    "bathroom": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bathtub"
+    },
+    "kitchen": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cooking"
+    },
+    "homework": {
+      "collection": "fluent-emoji-flat",
+      "icon": "notebook"
+    },
+    "wash": {
+      "collection": "fluent-emoji-flat",
+      "icon": "soap"
+    },
+    "sound": {
+      "collection": "fluent-emoji-flat",
+      "icon": "speaker-medium-volume"
+    },
+    "hear": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ear"
+    },
+    "bell": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bell"
+    },
+    "drum": {
+      "collection": "fluent-emoji-flat",
+      "icon": "drum"
+    },
+    "quiet": {
+      "collection": "fluent-emoji-flat",
+      "icon": "muted-speaker"
+    },
+    "loud": {
+      "collection": "fluent-emoji-flat",
+      "icon": "speaker-high-volume"
+    },
+    "clock": {
+      "collection": "fluent-emoji-flat",
+      "icon": "alarm-clock"
+    },
+    "o'clock": {
+      "collection": "fluent-emoji-flat",
+      "icon": "twelve-oclock"
+    },
+    "quarter": {
+      "collection": "fluent-emoji-flat",
+      "icon": "timer-clock"
+    },
+    "half": {
+      "collection": "fluent-emoji-flat",
+      "icon": "last-quarter-moon"
+    },
+    "past": {
+      "collection": "fluent-emoji-flat",
+      "icon": "counterclockwise-arrows-button"
+    },
+    "dinner": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fork-and-knife-with-plate"
+    },
+    "Monday": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "Tuesday": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "Wednesday": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "Thursday": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "Friday": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "weekend": {
+      "collection": "fluent-emoji-flat",
+      "icon": "beach-with-umbrella"
+    },
+    "piano": {
+      "collection": "fluent-emoji-flat",
+      "icon": "musical-keyboard"
+    },
+    "violin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "violin"
+    },
+    "triangle": {
+      "collection": "fluent-emoji-flat",
+      "icon": "red-triangle"
+    },
+    "guitar": {
+      "collection": "fluent-emoji-flat",
+      "icon": "guitar"
+    },
+    "music": {
+      "collection": "fluent-emoji-flat",
+      "icon": "musical-notes"
+    },
+    "festival": {
+      "collection": "fluent-emoji-flat",
+      "icon": "party-popper"
+    },
+    "mooncake": {
+      "collection": "fluent-emoji-flat",
+      "icon": "moon-cake"
+    },
+    "dumpling": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dumpling"
+    },
+    "dragon": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dragon"
+    },
+    "race": {
+      "collection": "fluent-emoji-flat",
+      "icon": "chequered-flag"
+    },
+    "visit": {
+      "collection": "fluent-emoji-flat",
+      "icon": "house-with-garden"
+    },
+    "duckling": {
+      "collection": "fluent-emoji-flat",
+      "icon": "front-facing-baby-chick"
+    },
+    "ugly": {
+      "collection": "fluent-emoji-flat",
+      "icon": "grimacing-face"
+    },
+    "swan": {
+      "collection": "fluent-emoji-flat",
+      "icon": "swan"
+    },
+    "river": {
+      "collection": "fluent-emoji-flat",
+      "icon": "water-wave"
+    },
+    "later": {
+      "collection": "fluent-emoji-flat",
+      "icon": "timer-clock"
+    },
+    "away": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dashing-away"
+    },
+    "star": {
+      "collection": "fluent-emoji-flat",
+      "icon": "star"
+    },
+    "ruler": {
+      "collection": "fluent-emoji-flat",
+      "icon": "straight-ruler"
+    },
+    "bird": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bird"
+    },
+    "ball": {
+      "collection": "fluent-emoji-flat",
+      "icon": "soccer-ball"
+    },
+    "autumn": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fallen-leaf"
+    },
+    "door": {
+      "collection": "fluent-emoji-flat",
+      "icon": "door"
+    },
+    "sea": {
+      "collection": "fluent-emoji-flat",
+      "icon": "water-wave"
+    },
+    "walk": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-walking"
+    },
+    "play": {
+      "collection": "fluent-emoji-flat",
+      "icon": "video-game"
+    },
+    "coat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "coat"
+    },
+    "toy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "teddy-bear"
+    },
+    "phone": {
+      "collection": "fluent-emoji-flat",
+      "icon": "telephone"
+    },
+    "television": {
+      "collection": "fluent-emoji-flat",
+      "icon": "television"
+    },
+    "what": {
+      "collection": "fluent-emoji-flat",
+      "icon": "red-question-mark"
+    },
+    "fish": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fish"
+    },
+    "tourist": {
+      "collection": "fluent-emoji-flat",
+      "icon": "world-map"
+    },
+    "pig": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pig"
+    },
+    "beds": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bed"
+    },
+    "subject": {
+      "collection": "fluent-emoji-flat",
+      "icon": "blue-book"
+    },
+    "lesson": {
+      "collection": "fluent-emoji-flat",
+      "icon": "open-book"
+    },
+    "dictionary": {
+      "collection": "fluent-emoji-flat",
+      "icon": "books"
+    },
+    "test": {
+      "collection": "fluent-emoji-flat",
+      "icon": "clipboard"
+    },
+    "project": {
+      "collection": "fluent-emoji-flat",
+      "icon": "clipboard"
+    },
+    "bus": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bus"
+    },
+    "train": {
+      "collection": "fluent-emoji-flat",
+      "icon": "train"
+    },
+    "station": {
+      "collection": "fluent-emoji-flat",
+      "icon": "station"
+    },
+    "ticket": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ticket"
+    },
+    "hotel": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hotel"
+    },
+    "suitcase": {
+      "collection": "fluent-emoji-flat",
+      "icon": "luggage"
+    },
+    "journey": {
+      "collection": "fluent-emoji-flat",
+      "icon": "world-map"
+    },
+    "bread": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bread"
+    },
+    "cheese": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cheese-wedge"
+    },
+    "vegetable": {
+      "collection": "fluent-emoji-flat",
+      "icon": "leafy-green"
+    },
+    "juice": {
+      "collection": "fluent-emoji-flat",
+      "icon": "beverage-box"
+    },
+    "picnic": {
+      "collection": "fluent-emoji-flat",
+      "icon": "basket"
+    },
+    "museum": {
+      "collection": "fluent-emoji-flat",
+      "icon": "classical-building"
+    },
+    "cinema": {
+      "collection": "fluent-emoji-flat",
+      "icon": "film-frames"
+    },
+    "research": {
+      "collection": "fluent-emoji-flat",
+      "icon": "microscope"
+    },
+    "course": {
+      "collection": "fluent-emoji-flat",
+      "icon": "books"
+    },
+    "qualification": {
+      "collection": "fluent-emoji-flat",
+      "icon": "graduation-cap"
+    },
+    "article": {
+      "collection": "fluent-emoji-flat",
+      "icon": "newspaper"
+    },
+    "podcast": {
+      "collection": "fluent-emoji-flat",
+      "icon": "studio-microphone"
+    },
+    "interview": {
+      "collection": "fluent-emoji-flat",
+      "icon": "microphone"
+    },
+    "audience": {
+      "collection": "fluent-emoji-flat",
+      "icon": "busts-in-silhouette"
+    },
+    "performance": {
+      "collection": "fluent-emoji-flat",
+      "icon": "performing-arts"
+    },
+    "climate": {
+      "collection": "fluent-emoji-flat",
+      "icon": "globe-showing-americas"
+    },
+    "recycle": {
+      "collection": "fluent-emoji-flat",
+      "icon": "recycling-symbol"
+    },
+    "rubbish": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wastebasket"
+    },
+    "pollution": {
+      "collection": "fluent-emoji-flat",
+      "icon": "factory"
+    },
+    "rainforest": {
+      "collection": "fluent-emoji-flat",
+      "icon": "evergreen-tree"
+    },
+    "protect": {
+      "collection": "fluent-emoji-flat",
+      "icon": "shield"
+    },
+    "reduce": {
+      "collection": "fluent-emoji-flat",
+      "icon": "down-arrow"
+    },
+    "energy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "high-voltage"
+    },
+    "accommodation": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hotel"
+    },
+    "airport": {
+      "collection": "fluent-emoji-flat",
+      "icon": "airplane"
+    },
+    "passenger": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person"
+    },
+    "luggage": {
+      "collection": "fluent-emoji-flat",
+      "icon": "luggage"
+    },
+    "delay": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hourglass-not-done"
+    },
+    "fitness": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-running"
+    },
+    "medicine": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pill"
+    },
+    "appointment": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "cat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cat"
+    },
+    "bat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bat"
+    },
+    "mat": {
+      "collection": "hugeicons",
+      "icon": "yoga-mat"
+    },
+    "hat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "top-hat"
+    },
+    "rat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "rat"
+    },
+    "fat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-standing"
+    },
+    "sat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "chair"
+    },
+    "pat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "clapping-hands"
+    },
+    "can": {
+      "collection": "fluent-emoji-flat",
+      "icon": "canned-food"
+    },
+    "fan": {
+      "collection": "fluent-emoji-flat",
+      "icon": "folding-hand-fan"
+    },
+    "man": {
+      "collection": "fluent-emoji-flat",
+      "icon": "man"
+    },
+    "pan": {
+      "collection": "hugeicons",
+      "icon": "pan-01"
+    },
+    "ran": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-running"
+    },
+    "van": {
+      "collection": "fluent-emoji-flat",
+      "icon": "delivery-truck"
+    },
+    "nap": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sleeping-face"
+    },
+    "tap": {
+      "collection": "fluent-emoji-flat",
+      "icon": "potable-water"
+    },
+    "lap": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-in-lotus-position"
+    },
+    "gap": {
+      "collection": "fluent-emoji-flat",
+      "icon": "left-right-arrow"
+    },
+    "bad": {
+      "collection": "fluent-emoji-flat",
+      "icon": "thumbs-down"
+    },
+    "dad": {
+      "collection": "fluent-emoji-flat",
+      "icon": "man"
+    },
+    "had": {
+      "collection": "fluent-emoji-flat",
+      "icon": "open-hands"
+    },
+    "mad": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pouting-face"
+    },
+    "glad": {
+      "collection": "fluent-emoji-flat",
+      "icon": "grinning-face-with-big-eyes"
+    },
+    "bag": {
+      "collection": "fluent-emoji-flat",
+      "icon": "handbag"
+    },
+    "tag": {
+      "collection": "fluent-emoji-flat",
+      "icon": "label"
+    },
+    "rag": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sponge"
+    },
+    "wag": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dog"
+    },
+    "flag": {
+      "collection": "fluent-emoji-flat",
+      "icon": "triangular-flag"
+    },
+    "drag": {
+      "collection": "fluent-emoji-flat",
+      "icon": "right-arrow"
+    },
+    "ham": {
+      "collection": "fluent-emoji-flat",
+      "icon": "meat-on-bone"
+    },
+    "jam": {
+      "collection": "fluent-emoji-flat",
+      "icon": "jar"
+    },
+    "ram": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ram"
+    },
+    "dam": {
+      "collection": "fluent-emoji-flat",
+      "icon": "water-wave"
+    },
+    "yam": {
+      "collection": "fluent-emoji-flat",
+      "icon": "roasted-sweet-potato"
+    },
+    "slam": {
+      "collection": "fluent-emoji-flat",
+      "icon": "collision"
+    },
+    "hen": {
+      "collection": "fluent-emoji-flat",
+      "icon": "chicken"
+    },
+    "pen": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fountain-pen"
+    },
+    "ten": {
+      "collection": "fluent-emoji-flat",
+      "icon": "keycap-10"
+    },
+    "men": {
+      "collection": "fluent-emoji-flat",
+      "icon": "busts-in-silhouette"
+    },
+    "den": {
+      "collection": "game-icons",
+      "icon": "cave-entrance"
+    },
+    "then": {
+      "collection": "fluent-emoji-flat",
+      "icon": "right-arrow"
+    },
+    "get": {
+      "collection": "fluent-emoji-flat",
+      "icon": "inbox-tray"
+    },
+    "jet": {
+      "collection": "fluent-emoji-flat",
+      "icon": "airplane"
+    },
+    "net": {
+      "collection": "fluent-emoji-flat",
+      "icon": "goal-net"
+    },
+    "wet": {
+      "collection": "fluent-emoji-flat",
+      "icon": "droplet"
+    },
+    "set": {
+      "collection": "fluent-emoji-flat",
+      "icon": "toolbox"
+    },
+    "bed": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bed"
+    },
+    "red": {
+      "collection": "fluent-emoji-flat",
+      "icon": "red-circle"
+    },
+    "fed": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bowl-with-spoon"
+    },
+    "led": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-walking"
+    },
+    "shed": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hut"
+    },
+    "sled": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sled"
+    },
+    "big": {
+      "collection": "fluent-emoji-flat",
+      "icon": "up-arrow"
+    },
+    "dig": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pick"
+    },
+    "fig": {
+      "collection": "mdi",
+      "icon": "fruit-pear"
+    },
+    "wig": {
+      "collection": "roentgen",
+      "icon": "wig"
+    },
+    "twig": {
+      "collection": "fluent-emoji-flat",
+      "icon": "seedling"
+    },
+    "bin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wastebasket"
+    },
+    "fin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fish"
+    },
+    "pin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "round-pushpin"
+    },
+    "tin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "canned-food"
+    },
+    "win": {
+      "collection": "fluent-emoji-flat",
+      "icon": "trophy"
+    },
+    "grin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "grinning-face"
+    },
+    "dip": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bowl-with-spoon"
+    },
+    "hip": {
+      "collection": "fluent-emoji-flat",
+      "icon": "man-dancing"
+    },
+    "lip": {
+      "collection": "fluent-emoji-flat",
+      "icon": "mouth"
+    },
+    "rip": {
+      "collection": "fluent-emoji-flat",
+      "icon": "broken-heart"
+    },
+    "sip": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cup-with-straw"
+    },
+    "zip": {
+      "collection": "fluent-emoji-flat",
+      "icon": "zipper-mouth-face"
+    },
+    "bit": {
+      "collection": "fluent-emoji-flat",
+      "icon": "puzzle-piece"
+    },
+    "fit": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-lifting-weights"
+    },
+    "hit": {
+      "collection": "fluent-emoji-flat",
+      "icon": "boxing-glove"
+    },
+    "kit": {
+      "collection": "fluent-emoji-flat",
+      "icon": "toolbox"
+    },
+    "sit": {
+      "collection": "fluent-emoji-flat",
+      "icon": "chair"
+    },
+    "pit": {
+      "collection": "game-icons",
+      "icon": "dig-hole"
+    },
+    "hop": {
+      "collection": "fluent-emoji-flat",
+      "icon": "rabbit"
+    },
+    "mop": {
+      "collection": "fluent-emoji-flat",
+      "icon": "broom"
+    },
+    "pop": {
+      "collection": "fluent-emoji-flat",
+      "icon": "balloon"
+    },
+    "top": {
+      "collection": "fluent-emoji-flat",
+      "icon": "top-arrow"
+    },
+    "stop": {
+      "collection": "fluent-emoji-flat",
+      "icon": "stop-sign"
+    },
+    "shop": {
+      "collection": "fluent-emoji-flat",
+      "icon": "department-store"
+    },
+    "cot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bed"
+    },
+    "dot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "record-button"
+    },
+    "hot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hot-face"
+    },
+    "pot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pot-of-food"
+    },
+    "lot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "input-numbers"
+    },
+    "spot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "red-circle"
+    },
+    "dog": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dog"
+    },
+    "fog": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fog"
+    },
+    "log": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wood"
+    },
+    "jog": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-running"
+    },
+    "hog": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pig"
+    },
+    "frog": {
+      "collection": "fluent-emoji-flat",
+      "icon": "frog"
+    },
+    "bun": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bread"
+    },
+    "fun": {
+      "collection": "fluent-emoji-flat",
+      "icon": "partying-face"
+    },
+    "gun": {
+      "collection": "fluent-emoji-flat",
+      "icon": "water-pistol"
+    },
+    "stun": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dizzy"
+    },
+    "bug": {
+      "collection": "fluent-emoji-flat",
+      "icon": "lady-beetle"
+    },
+    "hug": {
+      "collection": "fluent-emoji-flat",
+      "icon": "people-hugging"
+    },
+    "jug": {
+      "collection": "lucide-lab",
+      "icon": "jug"
+    },
+    "mug": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hot-beverage"
+    },
+    "rug": {
+      "collection": "mdi",
+      "icon": "rug"
+    },
+    "plug": {
+      "collection": "fluent-emoji-flat",
+      "icon": "electric-plug"
+    },
+    "but": {
+      "collection": "fluent-emoji-flat",
+      "icon": "left-right-arrow"
+    },
+    "cut": {
+      "collection": "fluent-emoji-flat",
+      "icon": "scissors"
+    },
+    "hut": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hut"
+    },
+    "nut": {
+      "collection": "fluent-emoji-flat",
+      "icon": "peanuts"
+    },
+    "shut": {
+      "collection": "fluent-emoji-flat",
+      "icon": "door"
+    },
+    "strut": {
+      "collection": "fluent-emoji-flat",
+      "icon": "peacock"
+    },
+    "cake": {
+      "collection": "fluent-emoji-flat",
+      "icon": "shortcake"
+    },
+    "game": {
+      "collection": "fluent-emoji-flat",
+      "icon": "video-game"
+    },
+    "lake": {
+      "collection": "fluent-emoji-flat",
+      "icon": "water-wave"
+    },
+    "plane": {
+      "collection": "fluent-emoji-flat",
+      "icon": "airplane"
+    },
+    "snake": {
+      "collection": "fluent-emoji-flat",
+      "icon": "snake"
+    },
+    "bike": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bicycle"
+    },
+    "five": {
+      "collection": "fluent-emoji-flat",
+      "icon": "keycap-5"
+    },
+    "kite": {
+      "collection": "fluent-emoji-flat",
+      "icon": "kite"
+    },
+    "line": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dotted-line-face"
+    },
+    "smile": {
+      "collection": "fluent-emoji-flat",
+      "icon": "smiling-face-with-smiling-eyes"
+    },
+    "home": {
+      "collection": "fluent-emoji-flat",
+      "icon": "house"
+    },
+    "hope": {
+      "collection": "fluent-emoji-flat",
+      "icon": "crossed-fingers"
+    },
+    "nose": {
+      "collection": "fluent-emoji-flat",
+      "icon": "nose"
+    },
+    "note": {
+      "collection": "fluent-emoji-flat",
+      "icon": "memo"
+    },
+    "rose": {
+      "collection": "fluent-emoji-flat",
+      "icon": "rose"
+    },
+    "cube": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ice"
+    },
+    "huge": {
+      "collection": "fluent-emoji-flat",
+      "icon": "up-arrow"
+    },
+    "mule": {
+      "collection": "fluent-emoji-flat",
+      "icon": "donkey"
+    },
+    "tube": {
+      "collection": "fluent-emoji-flat",
+      "icon": "test-tube"
+    },
+    "use": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hammer-and-wrench"
+    },
+    "bake": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bread"
+    },
+    "make": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hammer-and-wrench"
+    },
+    "rake": {
+      "collection": "mdi",
+      "icon": "rake"
+    },
+    "take": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hand-with-fingers-splayed"
+    },
+    "came": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-walking"
+    },
+    "fame": {
+      "collection": "fluent-emoji-flat",
+      "icon": "star-struck"
+    },
+    "same": {
+      "collection": "fluent-emoji-flat",
+      "icon": "heavy-equals-sign"
+    },
+    "flame": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fire"
+    },
+    "fine": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ok-hand"
+    },
+    "mine": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-gesturing-ok"
+    },
+    "nine": {
+      "collection": "fluent-emoji-flat",
+      "icon": "keycap-9"
+    },
+    "pine": {
+      "collection": "fluent-emoji-flat",
+      "icon": "evergreen-tree"
+    },
+    "shine": {
+      "collection": "fluent-emoji-flat",
+      "icon": "glowing-star"
+    },
+    "hide": {
+      "collection": "fluent-emoji-flat",
+      "icon": "face-with-peeking-eye"
+    },
+    "ride": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-biking"
+    },
+    "side": {
+      "collection": "fluent-emoji-flat",
+      "icon": "left-right-arrow"
+    },
+    "tide": {
+      "collection": "fluent-emoji-flat",
+      "icon": "water-wave"
+    },
+    "wide": {
+      "collection": "fluent-emoji-flat",
+      "icon": "left-right-arrow"
+    },
+    "slide": {
+      "collection": "fluent-emoji-flat",
+      "icon": "playground-slide"
+    },
+    "cone": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ice-cream"
+    },
+    "stone": {
+      "collection": "fluent-emoji-flat",
+      "icon": "rock"
+    },
+    "tone": {
+      "collection": "fluent-emoji-flat",
+      "icon": "musical-note"
+    },
+    "alone": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-standing"
+    },
+    "mail": {
+      "collection": "fluent-emoji-flat",
+      "icon": "e-mail"
+    },
+    "nail": {
+      "collection": "mdi",
+      "icon": "nail"
+    },
+    "rain": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cloud-with-rain"
+    },
+    "sail": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sailboat"
+    },
+    "wait": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hourglass-not-done"
+    },
+    "day": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sun"
+    },
+    "gray": {
+      "collection": "material-symbols",
+      "icon": "circle",
+      "color": "#808080"
+    },
+    "say": {
+      "collection": "fluent-emoji-flat",
+      "icon": "speaking-head"
+    },
+    "stay": {
+      "collection": "fluent-emoji-flat",
+      "icon": "house"
+    },
+    "tray": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bento-box"
+    },
+    "bee": {
+      "collection": "fluent-emoji-flat",
+      "icon": "honeybee"
+    },
+    "feet": {
+      "collection": "fluent-emoji-flat",
+      "icon": "footprints"
+    },
+    "green": {
+      "collection": "fluent-emoji-flat",
+      "icon": "green-circle"
+    },
+    "see": {
+      "collection": "fluent-emoji-flat",
+      "icon": "eyes"
+    },
+    "tree": {
+      "collection": "fluent-emoji-flat",
+      "icon": "deciduous-tree"
+    },
+    "beach": {
+      "collection": "fluent-emoji-flat",
+      "icon": "beach-with-umbrella"
+    },
+    "clean": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sparkles"
+    },
+    "eat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fork-and-knife"
+    },
+    "leaf": {
+      "collection": "fluent-emoji-flat",
+      "icon": "leaf-fluttering-in-wind"
+    },
+    "read": {
+      "collection": "fluent-emoji-flat",
+      "icon": "open-book"
+    },
+    "boat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sailboat"
+    },
+    "goat": {
+      "collection": "fluent-emoji-flat",
+      "icon": "goat"
+    },
+    "road": {
+      "collection": "fluent-emoji-flat",
+      "icon": "motorway"
+    },
+    "soap": {
+      "collection": "fluent-emoji-flat",
+      "icon": "soap"
+    },
+    "toast": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bread"
+    },
+    "blow": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wind-face"
+    },
+    "grow": {
+      "collection": "fluent-emoji-flat",
+      "icon": "seedling"
+    },
+    "low": {
+      "collection": "fluent-emoji-flat",
+      "icon": "down-arrow"
+    },
+    "show": {
+      "collection": "fluent-emoji-flat",
+      "icon": "performing-arts"
+    },
+    "snow": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cloud-with-snow"
+    },
+    "yellow": {
+      "collection": "fluent-emoji-flat",
+      "icon": "yellow-circle"
+    },
+    "high": {
+      "collection": "fluent-emoji-flat",
+      "icon": "up-arrow"
+    },
+    "light": {
+      "collection": "fluent-emoji-flat",
+      "icon": "light-bulb"
+    },
+    "might": {
+      "collection": "fluent-emoji-flat",
+      "icon": "thinking-face"
+    },
+    "right": {
+      "collection": "fluent-emoji-flat",
+      "icon": "right-arrow"
+    },
+    "sight": {
+      "collection": "fluent-emoji-flat",
+      "icon": "eyes"
+    },
+    "die": {
+      "collection": "fluent-emoji-flat",
+      "icon": "skull"
+    },
+    "lie": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-in-bed"
+    },
+    "pie": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pie"
+    },
+    "tie": {
+      "collection": "fluent-emoji-flat",
+      "icon": "necktie"
+    },
+    "cried": {
+      "collection": "fluent-emoji-flat",
+      "icon": "crying-face"
+    },
+    "tried": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-climbing"
+    },
+    "blue": {
+      "collection": "fluent-emoji-flat",
+      "icon": "blue-circle"
+    },
+    "clue": {
+      "collection": "fluent-emoji-flat",
+      "icon": "magnifying-glass-tilted-right"
+    },
+    "due": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "glue": {
+      "collection": "fluent-emoji-flat",
+      "icon": "adhesive-bandage"
+    },
+    "true": {
+      "collection": "fluent-emoji-flat",
+      "icon": "check-mark-button"
+    },
+    "blew": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wind-face"
+    },
+    "chew": {
+      "collection": "fluent-emoji-flat",
+      "icon": "mouth"
+    },
+    "crew": {
+      "collection": "fluent-emoji-flat",
+      "icon": "busts-in-silhouette"
+    },
+    "grew": {
+      "collection": "fluent-emoji-flat",
+      "icon": "seedling"
+    },
+    "new": {
+      "collection": "fluent-emoji-flat",
+      "icon": "sparkles"
+    },
+    "stew": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pot-of-food"
+    },
+    "food": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fork-and-knife-with-plate"
+    },
+    "moon": {
+      "collection": "fluent-emoji-flat",
+      "icon": "full-moon"
+    },
+    "room": {
+      "collection": "fluent-emoji-flat",
+      "icon": "couch-and-lamp"
+    },
+    "school": {
+      "collection": "fluent-emoji-flat",
+      "icon": "school"
+    },
+    "spoon": {
+      "collection": "fluent-emoji-flat",
+      "icon": "spoon"
+    },
+    "zoo": {
+      "collection": "fluent-emoji-flat",
+      "icon": "lion"
+    },
+    "book": {
+      "collection": "fluent-emoji-flat",
+      "icon": "closed-book"
+    },
+    "foot": {
+      "collection": "fluent-emoji-flat",
+      "icon": "foot"
+    },
+    "good": {
+      "collection": "fluent-emoji-flat",
+      "icon": "thumbs-up"
+    },
+    "look": {
+      "collection": "fluent-emoji-flat",
+      "icon": "eyes"
+    },
+    "wood": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wood"
+    },
+    "arm": {
+      "collection": "fluent-emoji-flat",
+      "icon": "flexed-biceps"
+    },
+    "car": {
+      "collection": "fluent-emoji-flat",
+      "icon": "automobile"
+    },
+    "yard": {
+      "collection": "fluent-emoji-flat",
+      "icon": "house-with-garden"
+    },
+    "fork": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fork-and-knife"
+    },
+    "short": {
+      "collection": "fluent-emoji-flat",
+      "icon": "shorts"
+    },
+    "storm": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cloud-with-lightning-and-rain"
+    },
+    "her": {
+      "collection": "fluent-emoji-flat",
+      "icon": "woman"
+    },
+    "herd": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cow"
+    },
+    "term": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "verb": {
+      "collection": "fluent-emoji-flat",
+      "icon": "writing-hand"
+    },
+    "person": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person"
+    },
+    "perfect": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hundred-points"
+    },
+    "first": {
+      "collection": "fluent-emoji-flat",
+      "icon": "1st-place-medal"
+    },
+    "girl": {
+      "collection": "fluent-emoji-flat",
+      "icon": "girl"
+    },
+    "third": {
+      "collection": "fluent-emoji-flat",
+      "icon": "3rd-place-medal"
+    },
+    "burn": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fire"
+    },
+    "fur": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bear"
+    },
+    "hurt": {
+      "collection": "fluent-emoji-flat",
+      "icon": "face-with-head-bandage"
+    },
+    "turn": {
+      "collection": "fluent-emoji-flat",
+      "icon": "counterclockwise-arrows-button"
+    },
+    "turtle": {
+      "collection": "fluent-emoji-flat",
+      "icon": "turtle"
+    },
+    "ship": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ship"
+    },
+    "wish": {
+      "collection": "fluent-emoji-flat",
+      "icon": "shooting-star"
+    },
+    "brush": {
+      "collection": "fluent-emoji-flat",
+      "icon": "paintbrush"
+    },
+    "chair": {
+      "collection": "fluent-emoji-flat",
+      "icon": "chair"
+    },
+    "chicken": {
+      "collection": "fluent-emoji-flat",
+      "icon": "chicken"
+    },
+    "chin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "face-with-hand-over-mouth"
+    },
+    "lunch": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bento-box"
+    },
+    "peach": {
+      "collection": "fluent-emoji-flat",
+      "icon": "peach"
+    },
+    "bath": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bathtub"
+    },
+    "math": {
+      "collection": "fluent-emoji-flat",
+      "icon": "abacus"
+    },
+    "thin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "straight-ruler"
+    },
+    "think": {
+      "collection": "fluent-emoji-flat",
+      "icon": "thinking-face"
+    },
+    "three": {
+      "collection": "fluent-emoji-flat",
+      "icon": "keycap-3"
+    },
+    "thumb": {
+      "collection": "fluent-emoji-flat",
+      "icon": "thumbs-up"
+    },
+    "that": {
+      "collection": "fluent-emoji-flat",
+      "icon": "backhand-index-pointing-right"
+    },
+    "the": {
+      "collection": "fluent-emoji-flat",
+      "icon": "open-book"
+    },
+    "them": {
+      "collection": "fluent-emoji-flat",
+      "icon": "busts-in-silhouette"
+    },
+    "this": {
+      "collection": "fluent-emoji-flat",
+      "icon": "backhand-index-pointing-down"
+    },
+    "with": {
+      "collection": "fluent-emoji-flat",
+      "icon": "people-hugging"
+    },
+    "dolphin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dolphin"
+    },
+    "elephant": {
+      "collection": "fluent-emoji-flat",
+      "icon": "elephant"
+    },
+    "photo": {
+      "collection": "fluent-emoji-flat",
+      "icon": "framed-picture"
+    },
+    "phrase": {
+      "collection": "fluent-emoji-flat",
+      "icon": "speech-balloon"
+    },
+    "trophy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "trophy"
+    },
+    "when": {
+      "collection": "fluent-emoji-flat",
+      "icon": "three-oclock"
+    },
+    "where": {
+      "collection": "fluent-emoji-flat",
+      "icon": "round-pushpin"
+    },
+    "which": {
+      "collection": "fluent-emoji-flat",
+      "icon": "red-question-mark"
+    },
+    "whisk": {
+      "collection": "lucide-lab",
+      "icon": "whisk"
+    },
+    "white": {
+      "collection": "fluent-emoji-flat",
+      "icon": "white-circle"
+    },
+    "back": {
+      "collection": "fluent-emoji-flat",
+      "icon": "back-arrow"
+    },
+    "kick": {
+      "collection": "fluent-emoji-flat",
+      "icon": "leg"
+    },
+    "neck": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bust-in-silhouette"
+    },
+    "rock": {
+      "collection": "fluent-emoji-flat",
+      "icon": "rock"
+    },
+    "sock": {
+      "collection": "fluent-emoji-flat",
+      "icon": "socks"
+    },
+    "king": {
+      "collection": "fluent-emoji-flat",
+      "icon": "crown"
+    },
+    "long": {
+      "collection": "fluent-emoji-flat",
+      "icon": "straight-ruler"
+    },
+    "ring": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ring"
+    },
+    "sing": {
+      "collection": "fluent-emoji-flat",
+      "icon": "microphone"
+    },
+    "song": {
+      "collection": "fluent-emoji-flat",
+      "icon": "musical-notes"
+    },
+    "wing": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bird"
+    },
+    "queen": {
+      "collection": "fluent-emoji-flat",
+      "icon": "crown"
+    },
+    "quick": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dashing-away"
+    },
+    "quilt": {
+      "collection": "mdi",
+      "icon": "view-quilt"
+    },
+    "quiz": {
+      "collection": "fluent-emoji-flat",
+      "icon": "clipboard"
+    },
+    "square": {
+      "collection": "fluent-emoji-flat",
+      "icon": "blue-square"
+    },
+    "catch": {
+      "collection": "fluent-emoji-flat",
+      "icon": "baseball"
+    },
+    "fetch": {
+      "collection": "fluent-emoji-flat",
+      "icon": "dog"
+    },
+    "hatch": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hatching-chick"
+    },
+    "match": {
+      "collection": "fluent-emoji-flat",
+      "icon": "crossed-swords"
+    },
+    "watch": {
+      "collection": "fluent-emoji-flat",
+      "icon": "watch"
+    },
+    "badge": {
+      "collection": "fluent-emoji-flat",
+      "icon": "name-badge"
+    },
+    "bridge": {
+      "collection": "fluent-emoji-flat",
+      "icon": "bridge-at-night"
+    },
+    "edge": {
+      "collection": "fluent-emoji-flat",
+      "icon": "triangular-ruler"
+    },
+    "fridge": {
+      "collection": "mdi",
+      "icon": "fridge"
+    },
+    "judge": {
+      "collection": "fluent-emoji-flat",
+      "icon": "judge"
+    },
+    "smudge": {
+      "collection": "fluent-emoji-flat",
+      "icon": "black-circle"
+    },
+    "wrap": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wrapped-gift"
+    },
+    "wreck": {
+      "collection": "fluent-emoji-flat",
+      "icon": "collision"
+    },
+    "wrist": {
+      "collection": "fluent-emoji-flat",
+      "icon": "watch"
+    },
+    "wrong": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cross-mark"
+    },
+    "wrote": {
+      "collection": "fluent-emoji-flat",
+      "icon": "writing-hand"
+    },
+    "knee": {
+      "collection": "fluent-emoji-flat",
+      "icon": "leg"
+    },
+    "kneel": {
+      "collection": "fluent-emoji-flat",
+      "icon": "person-kneeling"
+    },
+    "knife": {
+      "collection": "fluent-emoji-flat",
+      "icon": "kitchen-knife"
+    },
+    "knight": {
+      "collection": "fluent-emoji-flat",
+      "icon": "shield"
+    },
+    "knit": {
+      "collection": "fluent-emoji-flat",
+      "icon": "yarn"
+    },
+    "know": {
+      "collection": "fluent-emoji-flat",
+      "icon": "light-bulb"
+    },
+    "boil": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pot-of-food"
+    },
+    "coin": {
+      "collection": "fluent-emoji-flat",
+      "icon": "coin"
+    },
+    "noise": {
+      "collection": "fluent-emoji-flat",
+      "icon": "speaker-high-volume"
+    },
+    "point": {
+      "collection": "fluent-emoji-flat",
+      "icon": "backhand-index-pointing-right"
+    },
+    "soil": {
+      "collection": "fluent-emoji-flat",
+      "icon": "potted-plant"
+    },
+    "boy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "boy"
+    },
+    "enjoy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "smiling-face-with-hearts"
+    },
+    "joy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "face-with-tears-of-joy"
+    },
+    "royal": {
+      "collection": "fluent-emoji-flat",
+      "icon": "crown"
+    },
+    "annoy": {
+      "collection": "fluent-emoji-flat",
+      "icon": "unamused-face"
+    },
+    "house": {
+      "collection": "fluent-emoji-flat",
+      "icon": "house"
+    },
+    "mouse": {
+      "collection": "fluent-emoji-flat",
+      "icon": "mouse"
+    },
+    "round": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hollow-red-circle"
+    },
+    "clown": {
+      "collection": "fluent-emoji-flat",
+      "icon": "clown-face"
+    },
+    "down": {
+      "collection": "fluent-emoji-flat",
+      "icon": "down-arrow"
+    },
+    "how": {
+      "collection": "fluent-emoji-flat",
+      "icon": "red-question-mark"
+    },
+    "town": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cityscape"
+    },
+    "August": {
+      "collection": "fluent-emoji-flat",
+      "icon": "calendar"
+    },
+    "cause": {
+      "collection": "fluent-emoji-flat",
+      "icon": "link"
+    },
+    "fault": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cross-mark"
+    },
+    "pause": {
+      "collection": "fluent-emoji-flat",
+      "icon": "pause-button"
+    },
+    "sauce": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fondue"
+    },
+    "claw": {
+      "collection": "fluent-emoji-flat",
+      "icon": "paw-prints"
+    },
+    "jaw": {
+      "collection": "fluent-emoji-flat",
+      "icon": "mouth"
+    },
+    "law": {
+      "collection": "fluent-emoji-flat",
+      "icon": "balance-scale"
+    },
+    "paw": {
+      "collection": "fluent-emoji-flat",
+      "icon": "paw-prints"
+    },
+    "straw": {
+      "collection": "fluent-emoji-flat",
+      "icon": "cup-with-straw"
+    },
+    "air": {
+      "collection": "fluent-emoji-flat",
+      "icon": "wind-face"
+    },
+    "fair": {
+      "collection": "fluent-emoji-flat",
+      "icon": "balance-scale"
+    },
+    "hair": {
+      "collection": "fluent-emoji-flat",
+      "icon": "hair-pick"
+    },
+    "pair": {
+      "collection": "fluent-emoji-flat",
+      "icon": "two-hearts"
+    },
+    "stairs": {
+      "collection": "material-symbols",
+      "icon": "stairs"
+    },
+    "dear": {
+      "collection": "fluent-emoji-flat",
+      "icon": "love-letter"
+    },
+    "ear": {
+      "collection": "fluent-emoji-flat",
+      "icon": "ear"
+    },
+    "fear": {
+      "collection": "fluent-emoji-flat",
+      "icon": "fearful-face"
+    },
+    "year": {
+      "collection": "fluent-emoji-flat",
+      "icon": "tear-off-calendar"
+    }
+  }
+}
